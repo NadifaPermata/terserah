@@ -1,4 +1,4 @@
 pandas
 statistics
-statmodels
+statsmodels
 scipy
